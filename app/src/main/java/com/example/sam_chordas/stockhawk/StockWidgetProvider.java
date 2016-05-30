@@ -16,7 +16,6 @@ import android.widget.RemoteViews;
 import com.sam_chordas.android.stockhawk.R;
 import com.sam_chordas.android.stockhawk.rest.CursorRecyclerViewAdapter;
 import com.sam_chordas.android.stockhawk.service.DetailWidgetRemoteViewsService;
-import com.sam_chordas.android.stockhawk.service.StockWidgetIntentService;
 import com.sam_chordas.android.stockhawk.ui.MyStocksActivity;
 
 /**

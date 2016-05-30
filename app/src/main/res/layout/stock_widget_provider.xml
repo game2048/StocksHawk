@@ -10,6 +10,13 @@
         android:layout_height="@dimen/abc_action_bar_default_height_material"
         android:id="@+id/widget"
         >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:fontFamily="sans-serif-condensed"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:text="Stock Hawk"/>
     </FrameLayout>
     <FrameLayout
         android:layout_width="match_parent"
